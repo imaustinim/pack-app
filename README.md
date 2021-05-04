@@ -11,7 +11,7 @@
 * [Shirley Lam]()
 
 ## Description
-Pack'D is a webapp designed to help absent-minded vacationers get organized! Search by location to return item results pertaining to the destinations. Curate your results by their popularity, destination, season, type of travel, activities, and more!
+Pack'd is a webapp designed to help absent-minded vacationers get organized! Search by location to return item results pertaining to the destinations. Curate your results by their popularity, destination, season, type of travel, activities, and more!
 
 Create & add your own items, then submit them to the community for up/down-voting, while you vote on other community items based on their own merits.  
 
